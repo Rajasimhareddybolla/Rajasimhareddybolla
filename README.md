@@ -13,7 +13,7 @@ Raja Simha
 <br />
 
 <div align="center">
-    <a href="https://github.com/chethannhub">
+    <a href="https://github.com/rajasimhareddybolla">
         <img width="370"
             src="https://streak-stats.demolab.com/?user==rajasimhareddybolla&count_private=true&theme=react&border_radius=10"
             alt="streak stats" />
@@ -23,7 +23,7 @@ Raja Simha
         <p align="center">
             <img width="570"
                 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajasimhareddybolla&theme=react&border_radius=10&border_color=666"
-                alt="Chethan's GitHub Contributions" />
+                alt="Raja's GitHub Contributions" />
         </p>
         <img width="325" align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajasimhareddybolla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"
