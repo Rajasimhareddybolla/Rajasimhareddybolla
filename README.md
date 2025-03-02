@@ -4,9 +4,7 @@ Raja Simha
 <h3 align="center">
     Transforming Ideas💡 into Reality through Coding👨‍💻 and Problem-Solving
 </h3>
-<p align="center">
-    🌱 I’m currently learning <b>Gen Ai</b> to enhance my AI skills.
-</p>
+
 
 <br />
 <h2 align="center">⚡My Development Journey⚡</h2>
