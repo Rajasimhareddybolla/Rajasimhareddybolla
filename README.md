@@ -2,7 +2,7 @@
 <h3 align="center">AI & Backend Systems Engineer</h3>
 
 <p align="center">
-  <a href="https://raja-theta.vercel.app">rajasimha</a> •
+  <a href="https://www.rajasimha.in">rajasimha.in</a> •
   <a href="https://linkedin.com/in/raja-simha-reddy-bolla">LinkedIn</a>
 </p>
 
