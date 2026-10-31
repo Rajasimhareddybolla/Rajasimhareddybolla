@@ -87,12 +87,12 @@
 ## 📊 Live GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajasimhareddybolla&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Raja's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajasimhareddybolla&theme=radical&hide_border=true" alt="Raja's Streak Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajasimhareddybolla&theme=radical" alt="Raja's GitHub Details & Contribution Timeseries" width="98%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajasimhareddybolla&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Raja's Top Languages" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=Rajasimhareddybolla&theme=radical&hide_border=true" alt="Raja's Streak Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajasimhareddybolla&theme=radical" alt="Raja's Top Languages" width="49%" />
 </p>
 
 ---
